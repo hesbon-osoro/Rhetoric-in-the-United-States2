@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5, CSS3, and JavaScript 6th Edition
+   Tutorial 13
+   Case Problem 4
+
+   Rhetoric in the United States General Style Sheet
+  
+   Filename: ws_cloud.css
+
+*/
+
+aside#cloud span {
+  display: inline-block;
+  margin: 0px 4px;
+}
